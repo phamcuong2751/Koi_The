@@ -26,7 +26,10 @@
         </DockPanel>
        
         <!--test commit-->
-        
+        <!--test commit-->
+        <!--test commit-->
+            
+            
         <TextBlock Name="Percent_Sugar"  Margin="10 0 0 80" Width="300" Height="50"
                    VerticalAlignment="Bottom" FontSize="25" FontWeight="Light" Foreground="#5D613C"/>
         <Slider Maximum="100" TickPlacement="BottomRight" TickFrequency="25" IsSnapToTickEnabled="True"
